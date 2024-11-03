@@ -1,0 +1,21 @@
+.profileSwap:hover
+{
+    background-color: #353432;
+    color: white;
+}
+.bottomDesign
+{
+    background-color: #FC5D01;
+}
+.coverImgEdit
+{
+    z-index: 3;
+}
+.updateBtn
+{
+    background-color: #FC5D01;
+}
+.updateBtn:hover
+{
+    background-color: #353432;
+}
